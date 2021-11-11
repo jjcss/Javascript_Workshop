@@ -1,0 +1,104 @@
+.input {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 10%;
+    left: 49%;
+    font-size: 30px;
+    background-color: white;
+}
+
+.input2 {
+    font-size: 40px;
+    width: 20%;
+    height: 30%;
+}
+
+img {
+    width: 13%;
+    height: 13%;
+}
+
+.block {
+    display: flex;
+    text-align: center;
+    
+}
+
+.block1 {
+    text-align: center;
+    width: 100%;
+    height: 300px;
+
+    /* maybe change */
+    padding-left: 15%;
+}
+
+.block2 {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    height: 212px;
+    padding-top: 5%;
+
+    /* maybe change */
+    padding-right: 15%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+img {
+    max-width: 100%;
+}
+  
+.image {
+    flex-basis: 40%;
+}
+  
+.text {
+    font-size: 15px;
+    text-align: right;
+    color: white;
+}
+
+.box1 {
+    display: flex;
+    background-color: red;
+    width: 100%;
+    height: 100%;
+}
+
+.box1 img{
+    width: 20%;
+    height: 10%;
+}
+
+.box2 {
+    display: flex;
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+}
+.box2 img{
+    width: 20%;
+    height: 10%;
+    
+}
+
+.letGuessing {
+    font-size: 35px;;
+}
+
+.scoreColor {
+    color: white;
+    font-size: 30px;
+}
+
+.highScoreColor {
+    color: white;
+    font-size: 30px;
+}
