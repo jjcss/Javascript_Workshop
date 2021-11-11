@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<link rel="stylesheet" href="style.css">
+
+<!-- Change body style to a linear color -->
+<body style="background-image: linear-gradient(to right, purple, #DC7045); position: relative;">
+  <!-- Header -->
+  <div>
+    <div style="float: left;">
+        <p style="color: white;">Guess the number between 1 and 100</p>
+    </div>
+    
+    <div style="float: right;">
+        <button class="play" style="color: white; border: 2px solid yellow; background-color: powderblue;">Play!</button>
+    </div>
+  </div>
+
+  <br>
+  <br>
+
+  <h2 style="text-align: center; color: white;">Guess my Number!</h2>
+
+  <br>
+
+  <hr>
+
+  <h1 style="text-align: center;"><span class="input">?</span></h1>
+
+  <br><br><br> 
+  <!-- End of Header -->
+
+  <!-- Middle Section-->
+
+  <div class="block">
+    <div class="block1">
+
+      <p class="letGuessing" style="color: white;">Let's Start Guessing...</p> <br>
+
+      <p class="scoreColor">✈️&nbsp;&nbsp;Score: <span class="score">10</span></p>
+      <p class="highScoreColor">🏛&nbsp;&nbsp;Highscore: <span class="highscore">0</span></p>
+
+    </div>
+
+    <div class="block2">
+        <input class="input2" style="background-color: #DC7045; height: 80px; color: white; text-align: center; border: 4px solid white;" type="text">
+        <br>
+        <button class="checkBtn" style="color: white; border: 2px solid yellow; background-color: powderblue;">Check</button>
+    </div>
+  </div>
+
+  <br>
+  <!-- End of Middle Section-->
+
+  <!-- Footer -->
+
+  <div style="text-align: center; margin-left: 30%; margin-right: 30%; font-size: 30px; border: 5px solid white; border-radius: 5%;">
+    <p style="color: white;"> <b>Rules:</b></p>
+    <p style="text-align: left;">1. Press play to begin <br> 
+        2. Choose a number between 1-100 <br>
+        3. Start with a score of 10 <br>
+        4. Everytime you guess incorrectly, you lose a point <br>
+        5. If your score reaches 0, you lose <br>
+        6. Try to beat your highscore</p>
+    <p style="color: white;"> <b>Good luck!</b></p>
+  </div>
+
+  <br>
+  <br>
+  <br>
+  <p style="text-align: center;">Copyright Your Name</p>
+
+  <!-- End of Footer -->
+
+  <script src="script.js"></script>
+</body>
+</html>
