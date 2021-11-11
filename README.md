@@ -6,7 +6,7 @@ In this workshop, the CSS club decided to do a code along Javascript workshop by
 We used repl.it for the code-along, but in this workshop we managed to go over basic topics of HTML/CSS, which we went over in our previous meetings, but most importantly, we also went over Javascript and how to initialize varaiables, use querySelector, addeventListener, and how to manipulate elements. We hope you all enjoyed this workshop and if you have any questions feel free to message any of the Executives on Discord or feel free to email us.
 
 We hope you walk away with some knowledge and that you got to have some fun while doing it!
-
+## Finished Website
 ![java](https://user-images.githubusercontent.com/33881291/141372080-0f9866f4-aec0-4c8d-a7d3-45281ee24133.gif)
 
 ## Coming here after workshop?
