@@ -17,6 +17,7 @@ the other one will have the finished project for reference.
 - [Zoom link](https://zoom.us/rec/share/gseyg-3zFQWjGBAQIzqMEo1nPjTDXQennf1dBQRo-5X_jd7jf7FzxUR07XeYGuyT.hhzA6NvRHuMIGvf4)
 
 ## Resources for the workshop:
+- [Javascript Explanation](https://www.javascript.com/)
 - [HTML/CSS Explanation](https://www.w3schools.com/html/default.asp)
 - [Practice HTML/CSS](https://www.codecademy.com/catalog/language/html-css)
 - [Repl.it File with no code](https://replit.com/@r0m3c/CSSJAVAWKSP#index.html)
