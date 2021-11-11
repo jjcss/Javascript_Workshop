@@ -1,6 +1,6 @@
 # Javascript_Workshop
 <p> November 11, 2021 <br>
-Javascript Workshop for the Computer Science Society Club </p>
+## Javascript Workshop for the Computer Science Society Club </p>
 
 In this workshop, the CSS club decided to do a code along Javascript workshop by creating a simple Guessing Game website in which the user will have to choose a number from 1-100, and once they do depending on the number that they choose they'll get different outputs in their screen, plus, the user is able to get a highscore and is able to play again in order to beat their highscore. To give you a quick run-through of the workshop, we first went over the HTML/CSS part of our porject for the front-end and then we moved on to Javascript to complete the back-end of our website.
 We used repl.it for the code-along, but in this workshop we managed to go over basic topics of HTML/CSS, which we went over in our previous meetings, but most importantly, we also went over Javascript and how to initialize varaiables, use querySelector, addeventListener, and how to manipulate elements. We hope you all enjoyed this workshop and if you have any questions feel free to message any of the Executives on Discord or feel free to email us.
